@@ -18,7 +18,6 @@ public class Computer extends Spieler {
 			}
 			return a;
 		}
-		//Test
 		// normal; hier schaut der Computer erst, ob er schon 2 Felder nebeneinander
 		// belegt hat und das 3. frei ist damit er gewinnt. Wenn das mäglich ist macht
 		// er es.
